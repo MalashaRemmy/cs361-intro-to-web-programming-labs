@@ -6,6 +6,8 @@ This lab focused on preparing a complete local web development environment for m
 
 Before building websites and full-stack applications, it is important to configure the tools, editors, runtime environments, and workflows used throughout the development process.
 
+A useful way to think about this is to compare web development to construction work. Before constructing a building, workers first prepare the site and gather essential tools and materials such as cement, wheelbarrows, and shovels. Similarly, web developers must first prepare their development environment by installing and configuring the tools required for building, testing, and managing applications.
+
 The goal of this lab was to create a stable and productive workspace for future practical work throughout the CS361 course.
 
 ---
@@ -30,7 +32,24 @@ The objectives of this lab were to:
 Used as the primary code editor for writing and managing web development projects.
 
 ### Git & GitHub
-Used for version control, repository management, and project tracking.
+
+Git and GitHub are closely related but serve different purposes.
+
+Git is a distributed version control system used to track changes in source code over time. It allows developers to manage project history, collaborate efficiently, and safely experiment with code changes.
+
+GitHub is a cloud-based platform that hosts Git repositories online, making it easier to store, manage, and collaborate on software projects remotely.
+
+In this workflow, Git is used locally on the developer machine, while GitHub acts as the remote repository platform.
+
+### Why Version Control Matters
+
+Version control helps developers:
+- track project history,
+- recover previous work,
+- collaborate safely,
+- and maintain stable development workflows.
+
+It is one of the foundational practices used in professional software engineering environments.
 
 ### XAMPP
 Used to provide:
