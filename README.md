@@ -72,4 +72,4 @@ The goal is not merely to complete coursework, but to develop long-term competen
 ## Status
 
 Course in progress.
-Repository continuously updated throughout the semester.
+Repository continuously updated throughout weekly labs within both semesters.
